@@ -33,13 +33,6 @@ pip install pywifi
 
 Run the script:
 python wifi_scanner.py
-Output will look like:
-------------------------------------------------------------
-SSID                          Signal Strength (dBm)   Security
-------------------------------------------------------------
-Home_Network                  -45                    WPA2
-CoffeeShop_FreeWiFi          -70                    Open
-Office_AP                    -50                    WPA2
 
 📂 Project Structure
 wifi-network-scanner/
